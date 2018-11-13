@@ -51,6 +51,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [Scide](https://github.com/brunoro/base16-scide) maintained by [brunoro](https://github.com/brunoro)
 * [st](https://github.com/honza/base16-st) maintained by [honza](https://github.com/honza)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
+* [sway](https://github.com/rkubosz/base16-sway) maintained by [rkubosz](https://github.com/rkubosz)
 * [CSS, Less, Sass/Scss & Stylus](https://github.com/samme/base16-styles) maintained by [samme](https://github.com/samme)
 * [Termite](https://github.com/khamer/base16-termite) maintained by [khamer](https://github.com/khamer)
 * [Termux](https://github.com/kdrag0n/base16-termux) maintained by [kdrag0n](https://github.com/kdrag0n)
